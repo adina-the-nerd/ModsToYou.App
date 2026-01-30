@@ -1,1 +1,1 @@
-See our [Contributing Guidelines](https://nexus-mods.github.io/NexusMods.App/developers/Contributing/) for more details.
+I'll set up some rules as I need to
